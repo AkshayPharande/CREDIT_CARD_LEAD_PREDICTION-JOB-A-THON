@@ -12,6 +12,8 @@ In this case, the Happy Customer Bank wants to cross sell its credit cards to it
 Now, the bank is looking for your help in identifying customers that could show higher intent towards a recommended credit card, given: Customer details (gender, age, region etc.) Details of his/her relationship with the bank (Channel_Code,Vintage,'Avg_Asset_Value etc.)
 
 
+
+
 Table of Content
 
 Step 1: Importing the Relevant Libraries
@@ -23,6 +25,7 @@ Step 3: Data Cleaning
 Step 4: Exploratory Data Analysis
 
 Step 5: Building Mode
+
 
 
 
